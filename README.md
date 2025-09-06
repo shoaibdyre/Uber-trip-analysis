@@ -36,3 +36,13 @@ This Power BI dashboard provides comprehensive analysis of Uber trip data, offer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## About Me
+
+Hi there! I'm **Shoaib Dyre**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights. This GitHub repository showcases my journey in learning data analysis, including projects, SQL queries and analytic reposts.
+
+  🔍 Curious about data – I love exploring datasets, finding patterns, and telling stories through numbers.
+
+  📊 Skills in development: SQL, Python (Pandas, NumPy), Excel, Power BI and data cleaning.
+
+  🎯 Goal: Land my first Data Analyst role and contribute to data-driven decision-making.
